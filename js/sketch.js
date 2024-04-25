@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  background(100);
+  background(0);
   rotateX(angle);
   rotateY(angle);
 
